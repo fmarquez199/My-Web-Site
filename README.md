@@ -9,11 +9,11 @@ Soy estudiante de Licenciatura en Química en la Universidad Simón Bolívar y, 
 En mi paso por la universidad esto es lo que he logrado:
 
 1. Indice Académico
-```
+
 Licenciatura en Química | Ingeniería de computación | General
 ------------------------|---------------------------|---------
 4,XXXX/5 | 3,XXXX/5 | 4,1044/5
-```
+
 2. Dos nominaciones al Premio Mejor Estudiante.
 
 3. Miembro del Grupo Escalera.
