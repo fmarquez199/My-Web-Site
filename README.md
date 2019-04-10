@@ -12,7 +12,7 @@ En mi paso por la universidad esto es lo que he logrado:
 
 Licenciatura en Química | Ingeniería de computación | General
 ------------------------|---------------------------|---------
-4,XXXX/5 | 3,XXXX/5 | 4,1044/5
+4,3273/5 | 4,0155/5 | 4,1044/5
 
 2. Dos nominaciones al Premio Mejor Estudiante.
 
