@@ -4,7 +4,7 @@
 
 Mi nombre es Francisco Márquez, tengo 24 años.
 
-Soy estudiante de Licenciatura en Química en la Universidad Simón Bolívar y, en la práctica, también estudiante de Ingeniería de Computación en la misma Universidad (larga historia, después la comentamos :laughing:).
+Soy estudiante de Licenciatura en Química en la Universidad Simón Bolívar y, en la práctica, también estudiante de Ingeniería de Computación en la misma Universidad (larga historia, después la comentamos :laughing: ).
 
 En mi paso por la universidad esto es lo que he logrado:
 
@@ -48,7 +48,7 @@ Mientras fui bombero me desempeñé como:
 
 Y también fui acreedor de Mérito Académico en Primera Clase.
 ```
-(Ufff, fue bastante y creo que me falta aún :sleeping:)
+(Ufff, fue bastante y creo que me falta aún :sleeping: )
 
 Laboralmente me he desempeñado en algunos puestos fuera de la Universidad, como Pasante de Bachillerato en el prestigioso Instituto Venezolano de Investigaciones Científicas bajo la supervisión de la Dra. Wendy Rondón en el Laboratorio de Química Analítica del Centro de Química de este Instituto. También fui por un breve tiempo Profesor de Química de 4to y 5to Año en el Colegio Las Cumbres II en Cumbres de Curumo.
 
