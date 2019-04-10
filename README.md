@@ -1,6 +1,6 @@
 # Bienvenido a mi Sitio Web.
 
-![Mi foto](https://github.com/fmarquez199/My-Web-Site/blob/master/ProfilePicture.jpg)
+![Mi foto](https://github.com/fmarquez199/My-Web-Site/blob/gh-pages/ProfilePicture.jpg)
 Mi nombre es Francisco Márquez, tengo 24 años.
 
 Soy estudiante de Licenciatura en Química en la Universidad Simón Bolívar y, en la práctica, también estudiante de Ingeniería de Computación en la misma Universidad (larga historia, después la comentamos :laughing:).
