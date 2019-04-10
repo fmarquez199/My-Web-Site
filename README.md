@@ -30,20 +30,20 @@ Mientras fui bombero me desempeñé como:
 2. Subgerente de Operaciones.
 3. Gerente de Educación.
 4. Instructor de clases del Curso de Fomración de Bombero Profesional Universitario:
-  * Funciones de Cuartelería.
-  * Quemaduras.
-  * Intoxicaciones y Anafilaxis.
-  * Emergencias Cardiovasculares.
-  * Emergencias Neurovasculares.
-  * Comportamiento del Fuego.
-  * Agentes Extinguidores y Extintores Portatiles.
-  * Equipo de Protección Personal y Respiratoria.
-  * Escalera en el Servicio de Incendios.
+      * Funciones de Cuartelería.
+      * Quemaduras.
+      * Intoxicaciones y Anafilaxis.
+      * Emergencias Cardiovasculares.
+      * Emergencias Neurovasculares.
+      * Comportamiento del Fuego.
+      * Agentes Extinguidores y Extintores Portatiles.
+      * Equipo de Protección Personal y Respiratoria.
+      * Escalera en el Servicio de Incendios.
 5. Instructor de Cursos de la Gerencia de Riesgos:
-  * Curso Básico de Primeros Auxilios
-  * Extintores.
-  * Brigadas de Desalojo.
-  * Manejo Seguro de Sustancias Químicas.
+      * Curso Básico de Primeros Auxilios
+      * Extintores.
+      * Brigadas de Desalojo.
+      * Manejo Seguro de Sustancias Químicas.
 6.Tutor de Seminario.
 
 Y también fui acreedor de Mérito Académico en Primera Clase.
