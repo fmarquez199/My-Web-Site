@@ -1,6 +1,6 @@
 # Bienvenido a mi Sitio Web.
 
-![Mi foto](raw.githubusercontent.com/fmarquez199/My-Web-Site/gh-pages/ProfilePicture.jpg?token=Ak-UtD0z4kxtAE342Y4LM52WWAEHyFdfks5ctn01wA%3D%3D)
+![Mi foto](https://github.com/fmarquez199/My-Web-Site/blob/gh-pages/ProfilePicture.jpg)
 
 Mi nombre es Francisco Márquez, tengo 24 años.
 
