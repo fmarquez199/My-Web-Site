@@ -29,8 +29,7 @@ Mientras fui bombero me desempeñé como:
 1. Jefe y Auxiliar de Guardia.
 2. Subgerente de Operaciones.
 3. Gerente de Educación.
-4. Instructor de clases del Curso de Fomración de Bombero
-Profesional Universitario:
+4. Instructor de clases del Curso de Fomración de Bombero Profesional Universitario:
   * Funciones de Cuartelería.
   * Quemaduras.
   * Intoxicaciones y Anafilaxis.
